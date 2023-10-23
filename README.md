@@ -1,13 +1,12 @@
-# Feature Gamemode
-
+# Feature
 - Create UCP in Discord
 - Dynamic Actor, Door, Locker, ATM
 - Phone Textdraws System
 - Anticheat System
 - Exterior & Interior Cool Mapping
 - Speedcam & Speedtrap
-- Car Steling
-
+- Car Stealing
 # Credits
-- Dandy (Base script)
-- Adit (Updated)
+- Basic LRP v7
+- Dandy (creator)
+- Adit (updater)
